@@ -1,6 +1,6 @@
-# MudassirFlix 🎬
+# MudassirFlix 
 
-MudassirFlix is a **practice project** built with **React.js** and **Tailwind CSS** that provides movie information fetched from a public API. It’s a responsive web application where users can explore movies, view details such as posters, ratings, cast, release date, and more.  
+MudassirFlix is a **practice project** built with **React.js** ,**React Router** and **Tailwind CSS** that provides movie information fetched from a public API. It’s a responsive web application where users can explore movies, view details such as posters, ratings, cast, release date, and more.  
 
 > **Note:** This project is for learning and practice purposes only. It does not include authentication or backend services.  
 
@@ -8,21 +8,11 @@ MudassirFlix is a **practice project** built with **React.js** and **Tailwind CS
 
 ## Features
 
-- 🎬 Browse movies with posters, titles, and release year  
-- 📄 View detailed movie information including cast, director, genre, runtime, language, box office, and IMDb rating  
-- 🌐 Responsive design for desktop and mobile devices  
-- 🔗 Navigation with React Router for smooth single-page app experience  
-- ⚡ Built with modern frontend technologies like React and Tailwind CSS  
-
----
-
-## Screenshots
-
-![Home Page](./src/assets/home-screenshot.png)  
-![Movies Page](./src/assets/movies-screenshot.png)  
-![Movie Details Page](./src/assets/moviedetails-screenshot.png)  
-
-*(Replace these paths with your actual screenshots in the project)*
+-  Browse movies with posters, titles, and release year  
+-  View detailed movie information including cast, director, genre, runtime, language, box office, and IMDb rating  
+-  Responsive design for desktop and mobile devices  
+-  Navigation with React Router for smooth single-page app experience  
+-  Built with modern frontend technologies like React and Tailwind CSS  
 
 ---
 
@@ -36,9 +26,6 @@ MudassirFlix is a **practice project** built with **React.js** and **Tailwind CS
 
 ---
 
-
----
-
 ---
 
 ##  Installation & Setup
@@ -48,17 +35,12 @@ MudassirFlix is a **practice project** built with **React.js** and **Tailwind CS
    git clone https://github.com/your-username/pokemon-finder.git
    ```
 
-2. Navigate into the project folder:
-   ```bash
-   cd pokemon-finder
-   ```
-
-3. Install dependencies:
+2. Install dependencies:
    ```bash
    npm install
    ```
 
-4. Start the development server:
+3. Start the development server:
    ```bash
    npm run dev
    ```
