@@ -25,7 +25,7 @@ const Movies = () => {
           return (
             <li
               key={index}
-              className="bg-white rounded-2xl shadow-lg overflow-hidden hover:scale-105 transform transition duration-300 flex flex-col h-[500px]"
+              className="bg-white  rounded-2xl shadow-lg overflow-hidden hover:scale-105 transform transition duration-300 flex flex-col h-[500px]"
             >
               {/* Poster */}
               <img
