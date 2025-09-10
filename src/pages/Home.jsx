@@ -64,7 +64,7 @@ const Home = () => {
 
           <div className="p-6 bg-white shadow-lg rounded-xl hover:shadow-2xl transition">
             <h3 className="text-xl font-semibold flex justify-center gap-2 mb-2">
-              <img src="src/assets/movie-camera.svg" className="h-7 w-7" alt="movie-camera" /> Movie Details</h3>
+              <img src="assets/movie-camera.svg" className="h-7 w-7" alt="movie-camera" /> Movie Details</h3>
             <p className="text-gray-600">
               Get full information including posters, release year, and more.
             </p>
@@ -72,7 +72,7 @@ const Home = () => {
 
           <div className="p-6 bg-white shadow-lg rounded-xl hover:shadow-2xl transition">
             <h3 className="text-xl font-semibold flex justify-center gap-2 mb-2">
-              <img src="src/assets/star-shine.svg" className="h-9 w-9" alt="shine-star" /> Ratings & Details</h3>
+              <img src="assets/star-shine.svg" className="h-9 w-9" alt="shine-star" /> Ratings & Details</h3>
             <p className="text-gray-600">
               Get complete movie details, cast info, and user ratings.
             </p>

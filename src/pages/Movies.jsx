@@ -40,7 +40,7 @@ const Movies = () => {
                 {/* Year with Icon */}
                 <p className="text-gray-500 mb-4 flex items-center gap-2">
                   <img
-                    src="src/assets/calendar.svg"
+                    src="assets/calendar.svg"
                     className="w-5 h-5"
                     alt="calendar"
                   />

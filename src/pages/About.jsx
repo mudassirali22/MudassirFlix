@@ -30,7 +30,7 @@ const About = () => {
         {/* Mission */}
         <div className="bg-gray-50 p-6 rounded-xl shadow-md hover:shadow-lg transition">
           <h2 className="text-2xl font-semibold flex justify-center gap-2 text-gray-800 mb-3">
-            <img src="/src/assets/direct-hit.svg" className="h-8 w-9" alt="direct-hit" /> Our Mission
+            <img src="assets/direct-hit.svg" className="h-8 w-9" alt="direct-hit" /> Our Mission
           </h2>
           <p className="text-gray-600">
             At MudassirFlix, we aim to connect movie lovers with stories that
@@ -42,7 +42,7 @@ const About = () => {
         {/* Vision */}
         <div className="bg-gray-50 p-6 rounded-xl shadow-md hover:shadow-lg transition">
           <h2 className="text-2xl font-semibold flex justify-center gap-2 text-gray-800 mb-3">
-             <img src="/src/assets/globe.svg" className="h-8 w-9" alt="globe" /> Our Vision
+             <img src="assets/globe.svg" className="h-8 w-9" alt="globe" /> Our Vision
           </h2>
           <p className="text-gray-600">
             To become the most trusted platform for movie enthusiasts worldwide,
